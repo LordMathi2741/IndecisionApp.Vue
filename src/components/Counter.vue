@@ -16,7 +16,6 @@ export default {
              default:0,
              //required:true
              validator(value){
-                
                 return value > -1
              }
           }
